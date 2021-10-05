@@ -48,3 +48,9 @@ How to run this project :
 7- runserver
 
     python manage.py runserver
+
+8- For Admin Login
+    
+    python manage.py createsuperuser
+Username : jestinmwill@gmail.com
+Password : Jesus000
