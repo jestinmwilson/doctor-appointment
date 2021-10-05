@@ -23,7 +23,7 @@ How to run this project :
 
 1- Download/clone the entire project and open it in IDE
 
-      https://github.com/jestinmwilson/doctor-appointment.git
+    https://github.com/jestinmwilson/doctor-appointment.git
  
 2- install the virtual environment
 
@@ -53,4 +53,5 @@ How to run this project :
     
     python manage.py createsuperuser
 Username : jestinmwill@gmail.com
+
 Password : Jesus000
